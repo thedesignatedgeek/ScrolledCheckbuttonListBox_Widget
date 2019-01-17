@@ -19,9 +19,7 @@ The requirements started out fairly simply.
 - Eventually be able to send in a list coning a text & database key integer and get the
       text/key back for selected items.
 
-Below, you can find a screenshot of the widget within a Page project.
-
-![ScrolledCheckbuttonListBox in a Page Project](/Custom Widget Demo.png)
+![ScrolledCheckbuttonListBox in a Page Project](./Custom Widget Demo.png  "ScrolledCheckbuttonListBox in a Page Project")
 
 ## How to use
 
