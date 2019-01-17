@@ -21,7 +21,7 @@ The requirements started out fairly simply.
 
 Below, you can find a screenshot of the widget within a Page project.
 
-![ScrolledCheckbuttonListBox in a Page Project](Custom Widget Demo.png  "ScrolledCheckbuttonListBox in a Page Project")
+![ScrolledCheckbuttonListBox in a Page Project](/Custom Widget Demo.png  "ScrolledCheckbuttonListBox in a Page Project")
 
 ## How to use
 
